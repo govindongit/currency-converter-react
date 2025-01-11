@@ -47,7 +47,7 @@ function App() {
 
     return (
         <div className="App">
-            <div className="heading">
+            <div>
                 <h1>Currency converter</h1>
             </div>
             <div className="container">
